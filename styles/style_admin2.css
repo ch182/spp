@@ -1,0 +1,239 @@
+#wrap{
+	width:100%;
+	margin-right:auto;
+	margin-left:auto; 
+	border:none; 
+}
+
+body {
+    background-color:#bbb;
+    color:#048;
+    font-size: 12px;
+    line-height: 16px;
+}
+a {
+    color: #028;
+}
+footer {
+    text-align:center;
+}
+nav {
+    background-color:#bcd;
+    border-radius: 8px;
+    padding: 0 !important;
+    border: 1px solid #ddd;
+}
+section {
+    padding-right: 0 !important;
+}
+.panel {
+    background-color: #bcd;
+    border-radius: 8px;
+    padding-bottom: 5px;
+}
+h1 {
+    text-shadow: 4px 4px 5px #777;
+    color: #449;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #cde;
+}
+.panel-default > .panel-heading, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    color: #048;
+    background-color: #abc;
+    border-radius: 8px;
+}
+
+#header{
+	height:100px;
+	width:100%;
+	overflow:hidden;
+	margin:0px;
+	padding:0px; 
+	border-bottom:5px solid #DDDDDD;
+}
+
+.table-main {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 0px 0px;
+	border:none;
+	width:100%;
+}
+.table-main td {	
+	color: #333;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 0px;
+	border:none;
+}
+.table-main ul{ padding:0px; margin:0px 5px; width:100%;}
+.table-main li{ padding:0px; margin:0px 0px 5px 0px;}
+.table-main li a{ padding:5px; margin:0px 0px 0px 0px; color:#006600; 
+	font-size:13px; 
+	font-weight:bold; 
+	text-decoration:none;
+	display: block; 
+	}
+.table-main li a:hover{color:#000000;}
+.table-common {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 10px 0px 10px 0px;
+	background:#fff;	
+}
+.table-common th {
+	color: #333; font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/td_biru1.jpg) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 
+	border-top: 2px solid #666666;
+}
+.table-common td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:0px #CCCCCC solid;
+}
+.table-list {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+.table-list th {
+	color: #333; font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/td_putih.jpg) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 	
+	border-top: 2px solid #FF9900;
+}
+.table-list tr {}
+
+.table-list td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+
+.table-list2 td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 5px 5px;
+	border:1px #CCCCCC solid;
+}
+
+.table-print {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+.table-print tr {}
+
+.table-print td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+}
+
+.table-user {
+	clear: both;
+	text-align: left;
+	border-collapse: collapse;
+	margin: 0px 0px 10px 0px;
+	background:#fff;	
+}
+
+.table-user th {
+	color: #333; 
+	font-size: 14px; 
+	font-weight: 700; 
+	margin: 2px 2px 2px 2px; 
+	padding: 5px 5px; 
+	background: url(../images/td_biru2.jpg) repeat-x top #fff; 
+	border-bottom: 1px solid #CCC; 
+	border-top: 2px solid #FF9900;
+}
+
+.table-user td {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+.table-main textarea:focus{background:#E8E8E8;}
+.table-main input:focus{background:#E8E8E8;}
+.table-main select:focus{background:#E8E8E8;}
+
+.selKecil {
+	color: #333;
+	font-size:12px;
+	border-color: #fff;
+	border-collapse: collapse;
+	vertical-align: center;
+	padding: 3px 5px;
+	border-bottom:1px #CCCCCC solid;
+}
+
+input.angkaC {
+	text-align:center;
+}
+input.angkaL {
+	text-align:left;
+}
+input.angkaR {
+	text-align:right;
+}
+
+.footer{
+	height:20px;
+	width:100%;
+	overflow:hidden;
+	margin:0px;
+	padding:0px; 
+	border-top:none;
+}
+
+.mssgBox { 
+	margin-bottom:10px;
+	margin-right:5px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	font-size:12px;
+}
+
+.imgBox { 
+	margin-bottom:0px;
+	margin-right:5px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	font-size:12px;
+}
+
