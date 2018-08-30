@@ -1,0 +1,31 @@
+ADMINISTRATOR 
+-------------------
+User     : admin
+Password : admin
+Level    : Admin
+
+PENGAJARAN
+-------------------
+User     : indah
+Password : indah
+Level    : Pengajaran
+
+ADMINISTRATOR 
+-------------------
+User     : fitria
+Password : fitria
+Level    : Kasir
+
+
+
+
+Catatan :
+---------
+Anda dapat membuat User Login baru dari phpMyAdmin, dengan memilih tipe Password dengan enkripsi MD5.
+
+Jika Anda berhasil login sebagai Administrator, maka Anda dapat membuat akun login baru dari halaman program
+
+
+Semoga bermanfaat
+
+www.bukuskripsi.com
